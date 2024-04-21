@@ -50,6 +50,7 @@ Passionate cybersecurity professional actively seeking new opportunities to cont
 <div>
     <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white"/>
+    
 </div>
   
     
@@ -63,6 +64,13 @@ Passionate cybersecurity professional actively seeking new opportunities to cont
   <img src="https://img.shields.io/badge/-AZ_500-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white"/>
 
 
+</div>
+
+
+  ### Education
+<div>
+  <img src="https://img.shields.io/badge/-RGU_Beng-0089D6?&style=for-the-badge"/>
+    
 </div>
 
 ## Projects
