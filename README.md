@@ -5,7 +5,7 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Vulnerability Management Project)</b>
   - [Vulnerability Management with OpenVAS](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Vulnerability Management with Nessus](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Vulnerability Management with Nessus](https://github.com/LawsonSecOps/Vulnerability-Management-with-Nessus)
 - <b>Azure AD Logging And Monitoring</b>
   - [Configuring Azure Tenant-Level Logging And Monitoring ](https://github.com/joshmadakor1/Sentinel-Lab)
   
