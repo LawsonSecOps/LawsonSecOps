@@ -10,7 +10,7 @@
   - [Configuring Azure Tenant-Level Logging And Monitoring ](https://github.com/LawsonSecOps/AAD-Logging-Monitoring)
   
 - <b>Azure's Activity log Logging And Monitoring</b>
-  - [Configuring Azure Subscription-Level Logging And Monitoring](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Configuring Azure Subscription-Level Logging And Monitoring](https://github.com/LawsonSecOps/Azure-Activity-Log-Logging-Monitoring)
     
   
 
