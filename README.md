@@ -12,10 +12,10 @@ Passionate cybersecurity professional actively seeking new opportunities to cont
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Azure-SOC-Honeynet</a>|
+| Network Traffic and Logging-Monitoring        | <a href="https://google.com">AAD-Logging-Monitoring lab</a>|
 | Security Automation with Azure OpenAI         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Incident Response Planning and Execution      | <a href="https://google.com">Azure-SOC-Honeynet</a>|
 | Vulnerability-Management                      | <a href="https://github.com/LawsonSecOps/Vulnerability-Management-with-OpenVAS/tree/main">Vulnerability-Management Lab</a>|
 
 
