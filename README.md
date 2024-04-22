@@ -2,7 +2,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/LawsonSecOps/Azure-Cloud-SOC-and-Honeynet)
 - <b>Vulnerability Management Project)</b>
   - [Vulnerability Management with OpenVAS](https://github.com/LawsonSecOps/Vulnerability-Management-with-OpenVAS)
   - [Vulnerability Management with Nessus](https://github.com/LawsonSecOps/Vulnerability-Management-with-Nessus)
