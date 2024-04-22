@@ -74,5 +74,5 @@ Passionate cybersecurity professional actively seeking new opportunities to cont
 </div>
 
 ## Projects
-- Detection Lab
+- Vulnerability Management with OpenVAS
 - SOC Automation Project
