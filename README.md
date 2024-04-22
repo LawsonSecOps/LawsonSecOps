@@ -16,7 +16,7 @@ Passionate cybersecurity professional actively seeking new opportunities to cont
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Azure OpenAI         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Vulnerability-Management                      | SOC Automation Lab|
+| Vulnerability-Management                      | <a href="https://github.com/LawsonSecOps/Vulnerability-Management-with-OpenVAS/tree/main">Vulnerability-Management Lab</a>|
 
 
 ## Tools
@@ -74,5 +74,5 @@ Passionate cybersecurity professional actively seeking new opportunities to cont
 </div>
 
 ## Projects
-- Vulnerability Management with OpenVAS
+- <a href="https://github.com/LawsonSecOps/Vulnerability-Management-with-OpenVAS/tree/main">Vulnerability-Management Lab</a>
 - SOC Automation Project
