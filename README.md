@@ -7,7 +7,7 @@
   - [Vulnerability Management with OpenVAS](https://github.com/LawsonSecOps/Vulnerability-Management-with-OpenVAS)
   - [Vulnerability Management with Nessus](https://github.com/LawsonSecOps/Vulnerability-Management-with-Nessus)
 - <b>Azure AD Logging And Monitoring</b>
-  - [Configuring Azure Tenant-Level Logging And Monitoring ](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Configuring Azure Tenant-Level Logging And Monitoring ](https://github.com/LawsonSecOps/AAD-Logging-Monitoring)
   
 - <b>Azure's Activity log Logging And Monitoring</b>
   - [Configuring Azure Subscription-Level Logging And Monitoring](https://github.com/joshmadakor1/EncrypterPOC)
