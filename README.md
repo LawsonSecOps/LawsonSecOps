@@ -11,7 +11,8 @@
   
 - <b>Azure's Activity log Logging And Monitoring</b>
   - [Configuring Azure Subscription-Level Logging And Monitoring](https://github.com/LawsonSecOps/Azure-Activity-Log-Logging-Monitoring)
-
+- <b>Cyber Security Monitoring and Detection Project</b>
+  - [A comprehensive on-premises lab environment simulating a real-world Security Operations Center (SOC) and Honeynet infrastructure.](https://github.com/LawsonSecOps/Azure-Activity-Log-Logging-Monitoring)
 ## Tools
 
 
