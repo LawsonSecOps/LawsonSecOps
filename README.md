@@ -8,9 +8,10 @@
   - [Vulnerability Management with Nessus](https://github.com/LawsonSecOps/Vulnerability-Management-with-Nessus)
 - <b>Azure AD Logging And Monitoring</b>
   - [Configuring Azure Tenant-Level Logging And Monitoring ](https://github.com/LawsonSecOps/AAD-Logging-Monitoring)
+- <b>On-Premises Cyber Security Monitoring and Detection Infrastructure </b>
+  - [Developing an Interactive Security Operations Center Sandbox for Enhanced Cyber Threat Monitoring and Detection ](https://github.com/LawsonSecOps/On-Premises-Cyber-Security-Monitoring-and-Detection-Infrastructure)
   
-- <b>Azure's Activity log Logging And Monitoring</b>
-  - [Configuring Azure Subscription-Level Logging And Monitoring](https://github.com/LawsonSecOps/Azure-Activity-Log-Logging-Monitoring)
+
 
 ## Tools
 
