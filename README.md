@@ -50,6 +50,10 @@
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### University Degree
+<div>
+    <img src="https://img.shields.io/badge/-RGU%20(Bachelor%20Degree%20in%20Mechanical%20Engineering)-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="RGU (Bachelor Degree in Mechanical Engineering) Badge" />
+
  ## Certifications
 
 <div>
@@ -57,6 +61,7 @@
 <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks%20Certified%20Network%20Security%20Engineer%20(PCNSE)-0076D6?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
   <img src="https://img.shields.io/badge/-Qualys%20Certified%20Specialist-00ADEF?&style=for-the-badge&logo=Qualys&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20Certified%20Azure%20Security%20Engineer%20Associate-0089D6?&style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
+<img src="https://img.shields.io/badge/-PRINCE2%20Practitioner-blue?style=for-the-badge&logo=book&logoColor=white" alt="PRINCE2 Practitioner Badge" />
 
 
 
