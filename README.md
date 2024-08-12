@@ -10,6 +10,8 @@
   - [Configuring Azure Tenant-Level Logging And Monitoring ](https://github.com/LawsonSecOps/AAD-Logging-Monitoring)
 - <b>On-Premises Cyber Security Monitoring and Detection Infrastructure </b>
   - [Developing an Interactive Security Operations Center Sandbox for Enhanced Cyber Threat Monitoring and Detection ](https://github.com/LawsonSecOps/On-Premises-Cyber-Security-Monitoring-and-Detection-Infrastructure)
+- <b>Suricata Installation with Emerging Threats (ET) Ruleset, Wazuh Integration, and Nmap Testing on Ubuntu Server</b>
+  - [Configuring Suricata with Emerging Threats (ET) Ruleset, Wazuh Integration, and Nmap Testing on Ubuntu Server ](https://github.com/LawsonSecOps/suricata-wazuh-nmap-setup)  
   
 
 
