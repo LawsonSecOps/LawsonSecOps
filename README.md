@@ -3,7 +3,7 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/LawsonSecOps/Azure-Cloud-SOC-and-Honeynet)
-- <b>Vulnerability Management Project)</b>
+- <b>Vulnerability Management Project</b>
   - [Vulnerability Management with OpenVAS](https://github.com/LawsonSecOps/Vulnerability-Management-with-OpenVAS)
   - [Vulnerability Management with Nessus](https://github.com/LawsonSecOps/Vulnerability-Management-with-Nessus)
 - <b>Azure AD Logging And Monitoring</b>
@@ -11,7 +11,9 @@
 - <b>On-Premises Cyber Security Monitoring and Detection Infrastructure </b>
   - [Developing an Interactive Security Operations Center Sandbox for Enhanced Cyber Threat Monitoring and Detection ](https://github.com/LawsonSecOps/On-Premises-Cyber-Security-Monitoring-and-Detection-Infrastructure)
 - <b>Suricata Installation with Emerging Threats (ET) Ruleset, Wazuh Integration, and Nmap Testing on Ubuntu Server</b>
-  - [Configuring Suricata with Emerging Threats (ET) Ruleset, Wazuh Integration, and Nmap Testing on Ubuntu Server ](https://github.com/LawsonSecOps/suricata-wazuh-nmap-setup)  
+  - [Configuring Suricata with Emerging Threats (ET) Ruleset, Wazuh Integration, and Nmap Testing on Ubuntu Server ](https://github.com/LawsonSecOps/suricata-wazuh-nmap-setup)
+- <b>Azure / Entra ID Projects</b>
+  - [Azure AD Connect Sync with On-Premises AD](https://github.com/LawsonSecOps/Azure-AD-Connect-Synchronization-with-On-Premises-Active-Directory-Project)  
   
 
 
