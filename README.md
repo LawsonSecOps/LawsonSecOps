@@ -65,6 +65,7 @@
 <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks%20Certified%20Network%20Security%20Engineer%20(PCNSE)-0076D6?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
   <img src="https://img.shields.io/badge/-Qualys%20Certified%20Specialist-00ADEF?&style=for-the-badge&logo=Qualys&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20Certified%20Azure%20Security%20Engineer%20Associate-0089D6?&style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Certified%20Identity%20and%20Access%20Administrator%20Associate-0089D6?&style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
 <img src="https://img.shields.io/badge/-PRINCE2%20Practitioner-blue?style=for-the-badge&logo=book&logoColor=white" alt="PRINCE2 Practitioner Badge" />
 
 
